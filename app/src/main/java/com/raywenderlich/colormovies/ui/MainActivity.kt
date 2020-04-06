@@ -44,7 +44,7 @@ import org.jetbrains.anko.longToast
 class MainActivity : AppCompatActivity() {
 
   companion object {
-    const val TITLE = "TITL"
+    const val TITLE = "TITLE"
     const val SUMMARY = "SUMMARY"
     const val POSTER = "POSTER"
     const val RELEASE_DATE = "RELEASE_DATE"
